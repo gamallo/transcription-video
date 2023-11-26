@@ -19,7 +19,7 @@ sudo apt install -y ffmpeg
 
 ## How to use
 
-### 1.Transcription of a Youtube video: 
+### 1.Transcription of a Youtube video
 
 you have to specify the link and the language (en, pt, es, ...):
 
@@ -33,7 +33,7 @@ For instance:
 sh transcrip_youtube.sh https://www.youtube.com/watch?v=AJhkLwMvgrg pt
 ```
 
-### 2. Transcription of a mp4 video: 
+### 2. Transcription of a mp4 video
 
 you have to specify the path to your file and the language (en,pt,es...)
 ```
