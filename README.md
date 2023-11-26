@@ -40,7 +40,9 @@ you have to specify the path to your file and the language (en,pt,es...)
 sh transcript_mp4.sh <your_file.mp4> <language>
 ```
 
-## Whisper model:
+## Whisper model
 
-You can choose the Whisper model. The `medium` model is set by default, but you can also choose: `small` and `large`.
+You can choose the Whisper model in script `transcript.py`
+
+The `medium` model is set by default, but you can also choose: `small` and `large`.
 
