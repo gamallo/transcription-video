@@ -40,6 +40,10 @@ you have to specify the path to your file and the language (en,pt,es...)
 sh transcript_mp4.sh <your_file.mp4> <language>
 ```
 
+## OUTPUT
+
+The output is a file with the name of the input file following by `_srt.mp4`. It contains the subtitles extracted with Whisper aligned with the speech. 
+
 ## Whisper model
 
 You can choose the Whisper model in script `transcript.py`
