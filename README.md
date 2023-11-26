@@ -4,8 +4,8 @@ Transcription of videos, including YouTube videos, with Whisper (OpenAI), based 
 
 This repository contains two different scripts:
 
-* `translit_youtube` allows you to transcript videos from youtube by just providing the link and the language.
-* `translit_mp4' allows you to transcript your videos in mp4.
+* `transcript_youtube` allows you to transcript videos from youtube by just providing the link and the language.
+* `transcript_mp4' allows you to transcript your videos in mp4.
 
 
 ## INSTALL
